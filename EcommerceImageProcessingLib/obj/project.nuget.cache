@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "KfwLOqI4KW2oWuDr3VWzfWCFriMwvL+CpRMCBEG0ZWAsEVqIG20+oSp0EHWSi52rXYXCOWHns31FzcghtJZ5GQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\trinh\\OneDrive\\Projects\\EcommerceImageProcessingLib\\EcommerceImageProcessingLib\\EcommerceImageProcessingLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\trinh\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\trinh\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\trinh\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
